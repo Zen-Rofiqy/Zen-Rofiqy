@@ -2,6 +2,11 @@
 
 [![The stats](https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&count_private=true)](https://github.com/Zen-Rofiqy)
 
+[![Zen-Rofiqy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Zen-Rofiqy/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Zen-Rofiqy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/Zen-Rofiqy/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
+
+
 <!--
 **Zen-Rofiqy/Zen-Rofiqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
