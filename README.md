@@ -5,6 +5,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zen-Rofiqy&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&layout=compact&theme=vision-friendly-dark)](https://github.com/Zen-Rofiqy/github-readme-stats)
 
 
 
