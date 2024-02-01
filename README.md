@@ -1,3 +1,14 @@
+<img src= https://cdn.lospec.com/gallery/green-cave-055960.gif />
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/Zen-Rofiqy/Zen-Rofiqy"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/Zen-Rofiqy"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Zen-Rofiqy" />
+
+</p>
+
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
