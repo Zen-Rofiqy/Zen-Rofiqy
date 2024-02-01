@@ -1,12 +1,18 @@
-### Hi there 👋
+<h2 align="center">
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+</h2>
+ 
+<br>
 
-[![Zen-Rofiqy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy\&show_icons=true&count_private=true\&theme=dark#gh-dark-mode-only)](https://github.com/Zen-Rofiqy/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Zen-Rofiqy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy\&show_icons=true&count_private=true\&theme=default#gh-light-mode-only)](https://github.com/Zen-Rofiqy/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zen-Rofiqy&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&layout=compact&theme=vision-friendly-dark)](https://github.com/Zen-Rofiqy/github-readme-stats)
-
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Zen-Rofiqy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<hr>
 
 
 <!--
