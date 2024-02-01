@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![The stats](https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&count_private=true)](https://github.com/Zen-Rofiqy)
+
 <!--
 **Zen-Rofiqy/Zen-Rofiqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
