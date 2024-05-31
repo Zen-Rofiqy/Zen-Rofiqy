@@ -51,11 +51,9 @@
 <hr>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&show_icons=true&locale=en&layout=compact">
 </p>
-
-
 
 <!--
 **Zen-Rofiqy/Zen-Rofiqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
