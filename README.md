@@ -41,17 +41,21 @@
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zen-Rofiqy&theme=radical" alt="Zen-Rofiqy" /></a> </p>
+
+<br>
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Zen-Rofiqy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hikamrizqi" alt="hikamrizqi" /></a> </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&theme=radical&line_height=27">
+</p>
+
+
 
 <!--
 **Zen-Rofiqy/Zen-Rofiqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
