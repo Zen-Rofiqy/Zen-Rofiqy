@@ -42,7 +42,6 @@
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zen-Rofiqy&theme=radical" alt="Zen-Rofiqy" /></a> </p>
-
 <br>
 
 <p align = "center">
@@ -51,7 +50,7 @@
 <hr>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&theme=radical&line_height=27">
+  <img height="170" src = "https://github-readme-stats.vercel.app/api?username=Zen-Rofiqy&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Zen-Rofiqy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical&show_icons=true&locale=en&layout=compact">
 </p>
 
