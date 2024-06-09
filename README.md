@@ -10,7 +10,6 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/Zen-Rofiqy/Zen-Rofiqy"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/Zen-Rofiqy"/>
  <img src="https://badges.pufler.dev/commits/monthly/Zen-Rofiqy" />
 
@@ -32,7 +31,6 @@
  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
-
 
 
 <h2 align="center">
