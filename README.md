@@ -17,8 +17,11 @@
 </p>
 
 <p align="center">
- <img src="https://monkeytype-github-profile.deno.dev/profile/F_Rofiqy" />     
+  <a href="https://monkeytype.com/profile/F_Rofiqy">
+    <img src="https://monkeytype-github-profile.deno.dev/profile/F_Rofiqy" alt="Profile Image" />
+  </a>
 </p>
+
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
