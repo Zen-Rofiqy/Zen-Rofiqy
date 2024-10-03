@@ -12,8 +12,12 @@
  
  <img src="https://badges.pufler.dev/visits/Zen-Rofiqy/Zen-Rofiqy"/> 
  <img src="https://badges.pufler.dev/repos/Zen-Rofiqy"/>
- <img src="https://badges.pufler.dev/commits/monthly/Zen-Rofiqy" />
+ <img src="https://badges.pufler.dev/commits/monthly/Zen-Rofiqy" />    
 
+</p>
+
+<p align="center">
+ <img src="https://monkeytype-github-profile.deno.dev/profile/F_Rofiqy" />     
 </p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
