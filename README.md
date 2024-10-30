@@ -34,7 +34,7 @@
 
 <!-- SQL -->
 <p align="center">
- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite"></code>
  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
  <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle"></code>
