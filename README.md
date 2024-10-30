@@ -22,50 +22,62 @@
   </a>
 </p>
 
-
+<!-- ==================== TECH =====================-->
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<!-- Programming Languange -->
 <p align="center">
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rstudio/rstudio-original.svg" alt="r"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></code>
- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python"></code>
 </p>
 
+<!-- SQL -->
 <p align="center">
+ <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite"></code>
  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
  <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb"></code>
+ <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql"></code>
 </p>
 
- <code><img height="27" src="" alt="c++"></code>
- <code><img height="27" src="" alt="c++"></code>
+<!-- Stat -->
+<p align="center">
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/minitab/minitab-original.svg" alt="minitab"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spss/spss-original.svg" alt="spss"></code>
+</p>
+
+<!-- Web/Apps -->
+<p align="center">
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"></code>
+ <code><img height="27" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
- <code><img height="27" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss"></code>
- <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma"></code>
  <code><img height="27" src="https://vitejs.dev/logo-with-shadow.png" alt="vite"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></code>
- <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql"></code>
- <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+ <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma"></code>
 </p>
 
-
+<!-- Tools -->
 <p align="center">
- <img src="	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
- <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
- <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="github"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/anaconda/anaconda-original.svg" alt="anaconda"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pycharm/pycharm-original.svg" alt="pycharm"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"></code>
+</p>
+
+<!-- Editing -->
+<p align="center">
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/photoshop/photoshop-original.svg" alt="photoshop"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-plain.svg" alt="illustrator"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/premierepro/premierepro-original.svg" alt="premiere-pro"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/aftereffects/aftereffects-original.svg" alt="after-effect"></code>
 </p>
 
 
