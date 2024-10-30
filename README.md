@@ -28,9 +28,15 @@
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python"></code>
- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="sqlite"></code>
- <code><img height="27" src="" alt="c++"></code>
- <code><img height="27" src="" alt="c++"></code>
+</p>
+
+<p align="center">
+ <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite"></code>
+ <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
+ <code><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb"></code>
+</p>
+
  <code><img height="27" src="" alt="c++"></code>
  <code><img height="27" src="" alt="c++"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
