@@ -24,12 +24,6 @@
 
 <!-- ==================== TECH =====================-->
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-<!-- Stat -->
-<p align="center">
- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/minitab/minitab-original.svg" alt="minitab"></code>
- <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spss/spss-original.svg" alt="spss"></code>
-</p>
-
 <!-- Programming Languange -->
 <p align="center">
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="python"></code>
@@ -78,6 +72,12 @@
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/illustrator/illustrator-plain.svg" alt="illustrator"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/premierepro/premierepro-original.svg" alt="premiere-pro"></code>
  <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/aftereffects/aftereffects-original.svg" alt="after-effect"></code>
+</p>
+
+<!-- Stat -->
+<p align="center">
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/minitab/minitab-original.svg" alt="minitab"></code>
+ <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spss/spss-original.svg" alt="spss"></code>
 </p>
 
 
